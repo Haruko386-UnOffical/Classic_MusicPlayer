@@ -1,0 +1,22 @@
+:root {
+    --gold: #bfa36a;
+    --bg: #0b0b0c;
+}
+
+body {
+    margin: 0;
+    background: var(--bg);
+    font-family: 'Georgia', 'Times New Roman', serif;
+    color: #cfc7b0;
+    overflow: hidden;
+    -webkit-font-smoothing: antialiased;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #333;
+    border-radius: 4px;
+}
