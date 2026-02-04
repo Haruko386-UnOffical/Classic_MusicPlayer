@@ -32,9 +32,9 @@
 
 ## 🛠️ 运行环境
 
-* **核心框架**: Vue: ^3.5.24
-* **构建工具**: Vite: ^5.4.10
-* **语言**: TypeScript: ~5.9.3
+* **核心框架**: Vue: `^3.5.24`
+* **构建工具**: Vite: `^5.4.10`
+* **语言**: TypeScript: `~5.9.3`
 * **音频处理**: Web Audio API (AudioContext, AnalyserNode, GainNode)
 * **图形渲染**: HTML5 Canvas API
 * **样式**: CSS3 (Variables, 3D Transforms, Animations)
@@ -42,7 +42,7 @@
 ## 🚀 如何运行
 
 ### 环境要求
-* Node.js (建议v22.22.0)
+* Node.js (建议`v22.22.0`)
 * npm 或 yarn
 
 ### 安装步骤
@@ -80,5 +80,5 @@ src/
 ## 📄 License
 > [!CAUTION]
 >
-> 本项目基于MIT License © 2024 Dimon0000000
+> 本项目基于MIT License © 2026 Dimon0000000
 
